@@ -46,5 +46,3 @@ py book_library
 ```
 
 
-
-# Project made and maintained by niv malachi
